@@ -1,0 +1,8 @@
+*.exe
+*.test
+*.out
+mem
+!cmd/mem
+.memory/
+.DS_Store
+specs
